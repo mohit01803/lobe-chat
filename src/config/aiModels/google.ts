@@ -26,6 +26,7 @@ const googleChatModels: AIChatModelCard[] = [
       searchProvider: 'google',
     },
     type: 'chat',
+    enabled: true,
   },
   {
     abilities: {
